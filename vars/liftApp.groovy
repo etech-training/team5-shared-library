@@ -1,4 +1,4 @@
-def call('team5-shared-library'){
+def call(repoUrl){
 pipeline {
        agent any
        tools {
