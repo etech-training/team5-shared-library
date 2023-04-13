@@ -1,4 +1,4 @@
-def call('team5-shard-library'){
+def call(repoUrl){
 pipeline {
        agent any
        tools {
